@@ -1,0 +1,78 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+    
+    width: 209px;
+    height: 125px;
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 4px;
+    
+    width: 209px;
+    height: 64px;
+
+    flex: none;
+    order: 0;
+    align-self: center;
+    flex-grow: 0;
+}
+
+.title{
+    width: 209px;
+    height: 24px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #121212;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.description{
+    width: 209px;
+    height: 36px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+
+    color: #959393;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.icon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 0px;
+    gap: 10px;
+
+    flex: none;
+    order: 1;
+    align-self: flex-end;
+    flex-grow: 0;
+}

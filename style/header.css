@@ -1,0 +1,23 @@
+.header{
+    width: 241px;
+    height: 199px;
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.img_bardge{
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    z-index: 1;
+}
+
+.img_chair{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    bottom: 0px;
+}
