@@ -1,0 +1,38 @@
+.Registration{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 0px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 79px;
+    top: 678px;
+    
+    background: #E27D19;
+    border-radius: 30px;
+    
+}
+    
+.text{
+    
+    width: 154px;
+    height: 30px;
+    
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}

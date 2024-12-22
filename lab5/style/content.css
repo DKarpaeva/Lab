@@ -1,0 +1,111 @@
+.Email{
+    position: absolute;
+    width: 115px;
+    height: 40px;
+    left: 28px;
+    top: 235px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.User{
+    position: absolute;
+    width: 167px;
+    height: 40px;
+    left: 10px;
+    top: 335px;
+    
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.Password{
+    position: absolute;
+    width: 115px;
+    height: 40px;
+    left: 28px;
+    top: 435px;
+    
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.Conform{
+    position: absolute;
+    width: 234px;
+    height: 40px;
+    left: 11px;
+    top: 536px;
+    
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.rectangle_1726{
+    position: absolute;
+    width: 302px;
+    height: 2px;
+    right: 45px;
+    top: 616px;
+    
+    background: #A07349;
+    border-radius: 11px;
+}
+
+.rectangle_1727{
+    position: absolute;
+    width: 302px;
+    height: 2px;
+    right: 45px;
+    top: 515px;
+    
+    background: #A07349;
+    border-radius: 11px;
+}
+
+.rectangle_1728{
+    position: absolute;
+    width: 302px;
+    height: 2px;
+    right: 45px;
+    top: 417px;
+    
+    background: #A07349;
+    border-radius: 11px;
+}
+
+.rectangle_1729{
+    position: absolute;
+    width: 302px;
+    height: 2px;
+    right: 45px;
+    top: 321px;
+    
+    background: #A07349;
+    border-radius: 11px;
+}

@@ -1,0 +1,119 @@
+.hero{
+    margin-top: 152px;
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    align-items: center;
+    
+}
+.hero_cont{
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+    justify-content: center;
+    width: 765px;
+    height: 500px;
+}
+.hero_cont_head{
+    font-size: 22px;
+    font-weight: 500;
+    width: 357px;
+    height: 33px;
+    border-bottom: 3px solid #262626;
+}
+.hero_cont_heading{
+    font-size: 54px;
+    font-weight: 800;
+}
+#juj{
+    color: #ff8d4c;
+}
+.hero_paragraph{
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+.hero_sub_cont_block{
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    border: 2px solid #262626;
+    border-radius: 12px;
+    background-color: #FFEFE5;
+    justify-content: space-around;
+    align-items: center;
+    width: 765px;
+    height: 141px;
+
+    -webkit-box-shadow: 8px 8px 0px 1px rgba(255, 190, 153, 1);
+-moz-box-shadow: 8px 8px 0px 1px rgba(255, 190, 153, 1);
+box-shadow: 8px 8px 0px 1px rgba(255, 190, 153, 1);
+}
+.num{
+    font-size: 44px;
+    font-weight: 800;
+}
+.hero_sub_cont_text{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+@media (max-width:1919px) {
+    .hero_img{
+        width: 358px;
+        height: 410px;
+        margin-left: 5px;
+        
+    }    
+    .hero{
+        width: 370px;
+        flex-direction: column;
+        margin-top: 65px;
+        height: 1146px;
+    }
+    .hero_cont{
+        width: 358px;
+        margin-left: auto;
+        margin-top: 50px;
+    }
+    .hero_cont_head{
+        margin-top: 40px;
+        font-size: 16px;
+        width: 260px;
+        margin-left: 50px;
+    }
+    .hero_cont_heading{
+        font-size: 30px;
+        margin-top: 10px;
+        width: 358px;
+        text-align: center;
+    }
+    .hero_paragraph{
+        font-size: 16px;
+        margin-top: 16px;
+    }
+    .hero_sub_cont_block{
+        flex-direction: column;
+        margin-top: 40px;
+        width: 358px;
+        height: 385px;
+        -webkit-box-shadow: 4px 4px 0px 1px rgba(255, 190, 153, 1);
+        -moz-box-shadow: 4px 4px 0px 1px rgba(255, 190, 153, 1);
+        box-shadow: 4px 4px 0px 1px rgba(255, 190, 153, 1);
+    }
+    .num{
+        font-size: 34px;
+        margin-top: 20px;
+        text-align: center;
+         
+    }
+    .hero_sub_cont_text{
+        font-size: 16px;
+        margin-bottom: 20px; 
+    }
+    .t2{
+        border-top: 2px solid #262626;
+        border-bottom: 2px solid #262626;
+    }
+}

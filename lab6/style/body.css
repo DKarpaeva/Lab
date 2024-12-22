@@ -1,0 +1,26 @@
+.body{
+    position: relative;
+    width: 1920px;
+    height: 4695px;
+
+    /* Orange/97 */
+    background: #FFF5F0;
+}
+.text_decoration_none{
+    text-decoration: none;
+    color: #262626;
+}
+.Outfit{
+    font-family: "Outfit";
+}
+.Raleway{
+    font-family: "Raleway";
+}
+@media (max-width:1919px) {
+    .body{
+        width: 390px;
+        height: auto;
+        margin: 0 auto;
+    }
+
+}
